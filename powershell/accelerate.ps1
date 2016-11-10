@@ -6,7 +6,7 @@ for triggering policy changes from monitoring tools.
 
 Created: 11/10/16
 Author: Daniel Perkins
-Reference:
+Reference: http://blog.infinio.com/the-awesomeness-that-happened-when-we-integrated-with-solarwinds-vman
 Prerequisites: VMware vSphere PowerCLI
 
 Example:
